@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476374333 source:c:\users\mypc\documents\sony\flames\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+
